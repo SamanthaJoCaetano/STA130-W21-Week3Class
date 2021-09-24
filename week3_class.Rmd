@@ -1,7 +1,7 @@
 ---
 title: "STA130 Week 3 Class: Data Wrangling"
-author: "Nathalie Moon"
-date: "January 25, 2021"
+author: "Samantha-Jo Caetano"
+date: "Sept 27, 2021"
 output: pdf_document
 ---
 
